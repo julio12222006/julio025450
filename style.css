@@ -7,4 +7,9 @@
 
 body {
     background-color: var(--cor-de-fundo);
+    color:valor var(--branco-principal)
+}
+*{
+    margin: 0;
+    pad: 0;  
 }
